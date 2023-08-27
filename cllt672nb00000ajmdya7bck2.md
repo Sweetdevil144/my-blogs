@@ -8,8 +8,6 @@ tags: programming-blogs, github, bash, shell, beginners
 
 ---
 
-**Shell Scripting 101: Essential Commands for Every Developer**
-
 Diving into the universe of shell scripting? Welcome aboard! Shell scripting is a potent means to automate mundane tasks, string several commands together, and interact dynamically with your system. Here's your beginner-friendly guide to 101 essential shell commands.
 
 Let's dive into 50 shell commands:
