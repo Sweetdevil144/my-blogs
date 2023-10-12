@@ -1,8 +1,8 @@
 ---
-title: "Guide to Installing Linux: Embrace the Open Source Revolution"
+title: "Linux Installation Fest: Guide to installing linux"
 datePublished: Thu Oct 12 2023 09:39:41 GMT+0000 (Coordinated Universal Time)
 cuid: clnmznkl2000709mn7xgy26ip
-slug: guide-to-installing-linux-embrace-the-open-source-revolution
+slug: linux-installation-fest-guide-to-installing-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697103514955/7f55650d-99d8-4595-ba4b-2ec5f2d03c20.jpeg
 tags: ubuntu, operating-system, linux, opensource, linux-for-beginners
 
