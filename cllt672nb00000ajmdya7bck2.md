@@ -1,5 +1,7 @@
 ---
 title: "Shell Scripting 101: Essential Commands for Every Developer"
+seoTitle: "Basic Shell Commands Every Developer Needs"
+seoDescription: "Beginner guide to essential shell scripting for automating tasks, managing files, and enhancing command line skills. Perfect for developers"
 datePublished: Sun Aug 27 2023 08:10:01 GMT+0000 (Coordinated Universal Time)
 cuid: cllt672nb00000ajmdya7bck2
 slug: shell-scripting-101-essential-commands-for-every-developer
