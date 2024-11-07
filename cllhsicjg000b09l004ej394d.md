@@ -1,11 +1,13 @@
 ---
 title: "From Floppies to Dial-Up : Reminiscing the Tech Days Gone By"
+seoTitle: "Nostalgic Tech: Floppies and Dial-Up Era"
+seoDescription: "Journey through forgotten tech, from floppy disks to pagers, and rediscover the roots of today's digital age. Stay curious and keep innovating!"
 datePublished: Sat Aug 19 2023 09:01:25 GMT+0000 (Coordinated Universal Time)
 cuid: cllhsicjg000b09l004ej394d
 slug: from-floppies-to-dial-up-reminiscing-the-tech-days-gone-by
 canonical: https://dev.to/devrx/from-floppies-to-dial-up-reminiscing-the-tech-days-gone-by-2la2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692433897908/bf7a5e6c-ec1d-4991-83eb-3dbbbcbc84b1.png
-tags: programming-blogs, technology, beginners, technological-advancements
+tags: programming-blogs, technology, machine-learning, beginners
 
 ---
 
